@@ -14,3 +14,4 @@ console.log (pergunta1,resposta1)
 console.log (pergunta2,resposta2)
 console.log (pergunta3, resposta3)
 
+//
